@@ -6,7 +6,7 @@ export default function Info () {
     <div className="info">
       <h1>Mayank Agarwal</h1>
       <h2>FullStack Developer</h2>
-      <p>mayank.agarwal.website</p>
+      <p>https://sir-mayank-agarwal.netlify.app/</p>
       <div className="btn-container">
         <a 
           href="mailto:mayank.agarwal0903@gmail.com" 
